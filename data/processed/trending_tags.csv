@@ -1,21 +1,141 @@
-,name,url,history
-0,musiquinta,https://mastodon.social/tags/musiquinta,"[{'day': '1717027200', 'accounts': '92', 'uses': '226'}, {'day': '1716940800', 'accounts': '2', 'uses': '2'}, {'day': '1716854400', 'accounts': '2', 'uses': '2'}, {'day': '1716768000', 'accounts': '1', 'uses': '2'}, {'day': '1716681600', 'accounts': '1', 'uses': '1'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '9', 'uses': '9'}]"
-1,guilty,https://mastodon.social/tags/guilty,"[{'day': '1717027200', 'accounts': '149', 'uses': '214'}, {'day': '1716940800', 'accounts': '8', 'uses': '11'}, {'day': '1716854400', 'accounts': '2', 'uses': '3'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '1', 'uses': '1'}, {'day': '1716508800', 'accounts': '2', 'uses': '2'}]"
-2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,"[{'day': '1717027200', 'accounts': '81', 'uses': '87'}, {'day': '1716940800', 'accounts': '3', 'uses': '3'}, {'day': '1716854400', 'accounts': '2', 'uses': '2'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '9', 'uses': '18'}]"
-3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,"[{'day': '1717027200', 'accounts': '42', 'uses': '62'}, {'day': '1716940800', 'accounts': '1', 'uses': '2'}, {'day': '1716854400', 'accounts': '2', 'uses': '2'}, {'day': '1716768000', 'accounts': '1', 'uses': '1'}, {'day': '1716681600', 'accounts': '2', 'uses': '5'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '2', 'uses': '5'}]"
-4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,"[{'day': '1717027200', 'accounts': '60', 'uses': '157'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,"[{'day': '1717027200', 'accounts': '40', 'uses': '45'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-6,trumpguilty,https://mastodon.social/tags/trumpguilty,"[{'day': '1717027200', 'accounts': '37', 'uses': '46'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-7,thehands,https://mastodon.social/tags/thehands,"[{'day': '1717027200', 'accounts': '35', 'uses': '40'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-8,tbt,https://mastodon.social/tags/tbt,"[{'day': '1717027200', 'accounts': '28', 'uses': '32'}, {'day': '1716940800', 'accounts': '1', 'uses': '1'}, {'day': '1716854400', 'accounts': '1', 'uses': '1'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '1', 'uses': '1'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '3', 'uses': '3'}]"
-9,Felon,https://mastodon.social/tags/Felon,"[{'day': '1717027200', 'accounts': '26', 'uses': '36'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-10,trump,https://mastodon.social/tags/trump,"[{'day': '1717027200', 'accounts': '486', 'uses': '764'}, {'day': '1716940800', 'accounts': '158', 'uses': '325'}, {'day': '1716854400', 'accounts': '138', 'uses': '371'}, {'day': '1716768000', 'accounts': '96', 'uses': '161'}, {'day': '1716681600', 'accounts': '111', 'uses': '171'}, {'day': '1716595200', 'accounts': '91', 'uses': '160'}, {'day': '1716508800', 'accounts': '121', 'uses': '216'}]"
-11,dwd3,https://mastodon.social/tags/dwd3,"[{'day': '1717027200', 'accounts': '52', 'uses': '58'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '31', 'uses': '79'}, {'day': '1716681600', 'accounts': '7', 'uses': '19'}, {'day': '1716595200', 'accounts': '4', 'uses': '5'}, {'day': '1716508800', 'accounts': '42', 'uses': '61'}]"
-12,GPN22,https://mastodon.social/tags/GPN22,"[{'day': '1717027200', 'accounts': '326', 'uses': '594'}, {'day': '1716940800', 'accounts': '118', 'uses': '172'}, {'day': '1716854400', 'accounts': '76', 'uses': '123'}, {'day': '1716768000', 'accounts': '57', 'uses': '97'}, {'day': '1716681600', 'accounts': '35', 'uses': '45'}, {'day': '1716595200', 'accounts': '17', 'uses': '23'}, {'day': '1716508800', 'accounts': '12', 'uses': '12'}]"
-13,verdict,https://mastodon.social/tags/verdict,"[{'day': '1717027200', 'accounts': '39', 'uses': '63'}, {'day': '1716940800', 'accounts': '3', 'uses': '7'}, {'day': '1716854400', 'accounts': '2', 'uses': '2'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '1', 'uses': '1'}, {'day': '1716595200', 'accounts': '1', 'uses': '1'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-14,waffle860,https://mastodon.social/tags/waffle860,"[{'day': '1717027200', 'accounts': '19', 'uses': '19'}, {'day': '1716940800', 'accounts': '0', 'uses': '0'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,"[{'day': '1717027200', 'accounts': '96', 'uses': '107'}, {'day': '1716940800', 'accounts': '11', 'uses': '11'}, {'day': '1716854400', 'accounts': '1', 'uses': '1'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '1', 'uses': '1'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-16,TrumpTrial,https://mastodon.social/tags/trumptrial,"[{'day': '1717027200', 'accounts': '154', 'uses': '293'}, {'day': '1716940800', 'accounts': '42', 'uses': '130'}, {'day': '1716854400', 'accounts': '31', 'uses': '210'}, {'day': '1716768000', 'accounts': '7', 'uses': '12'}, {'day': '1716681600', 'accounts': '4', 'uses': '7'}, {'day': '1716595200', 'accounts': '5', 'uses': '5'}, {'day': '1716508800', 'accounts': '7', 'uses': '12'}]"
-17,europol,https://mastodon.social/tags/europol,"[{'day': '1717027200', 'accounts': '18', 'uses': '23'}, {'day': '1716940800', 'accounts': '1', 'uses': '1'}, {'day': '1716854400', 'accounts': '3', 'uses': '3'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '3', 'uses': '3'}, {'day': '1716508800', 'accounts': '1', 'uses': '1'}]"
-18,trumpverdict,https://mastodon.social/tags/trumpverdict,"[{'day': '1717027200', 'accounts': '23', 'uses': '46'}, {'day': '1716940800', 'accounts': '2', 'uses': '2'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
-19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,"[{'day': '1717027200', 'accounts': '20', 'uses': '21'}, {'day': '1716940800', 'accounts': '1', 'uses': '1'}, {'day': '1716854400', 'accounts': '0', 'uses': '0'}, {'day': '1716768000', 'accounts': '0', 'uses': '0'}, {'day': '1716681600', 'accounts': '0', 'uses': '0'}, {'day': '1716595200', 'accounts': '0', 'uses': '0'}, {'day': '1716508800', 'accounts': '0', 'uses': '0'}]"
+,name,url,days_before,accounts_using,usage_count
+0,musiquinta,https://mastodon.social/tags/musiquinta,0,92,226
+0,musiquinta,https://mastodon.social/tags/musiquinta,1,2,2
+0,musiquinta,https://mastodon.social/tags/musiquinta,2,2,2
+0,musiquinta,https://mastodon.social/tags/musiquinta,3,1,2
+0,musiquinta,https://mastodon.social/tags/musiquinta,4,1,1
+0,musiquinta,https://mastodon.social/tags/musiquinta,5,0,0
+0,musiquinta,https://mastodon.social/tags/musiquinta,6,9,9
+1,guilty,https://mastodon.social/tags/guilty,0,149,214
+1,guilty,https://mastodon.social/tags/guilty,1,8,11
+1,guilty,https://mastodon.social/tags/guilty,2,2,3
+1,guilty,https://mastodon.social/tags/guilty,3,0,0
+1,guilty,https://mastodon.social/tags/guilty,4,0,0
+1,guilty,https://mastodon.social/tags/guilty,5,1,1
+1,guilty,https://mastodon.social/tags/guilty,6,2,2
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,0,81,87
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,1,3,3
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,2,2,2
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,3,0,0
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,4,0,0
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,5,0,0
+2,ThrowbackThursday,https://mastodon.social/tags/throwbackthursday,6,9,18
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,0,42,62
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,1,1,2
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,2,2,2
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,3,1,1
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,4,2,5
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,5,0,0
+3,trumpisguilty,https://mastodon.social/tags/trumpisguilty,6,2,5
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,0,60,157
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,1,0,0
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,2,0,0
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,3,0,0
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,4,0,0
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,5,0,0
+4,IfAIDisclaimersWereSongs,https://mastodon.social/tags/ifaidisclaimersweresongs,6,0,0
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,0,40,45
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,1,0,0
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,2,0,0
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,3,0,0
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,4,0,0
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,5,0,0
+5,ThursdayFiveList,https://mastodon.social/tags/thursdayfivelist,6,0,0
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,0,37,46
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,1,0,0
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,2,0,0
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,3,0,0
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,4,0,0
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,5,0,0
+6,trumpguilty,https://mastodon.social/tags/trumpguilty,6,0,0
+7,thehands,https://mastodon.social/tags/thehands,0,35,40
+7,thehands,https://mastodon.social/tags/thehands,1,0,0
+7,thehands,https://mastodon.social/tags/thehands,2,0,0
+7,thehands,https://mastodon.social/tags/thehands,3,0,0
+7,thehands,https://mastodon.social/tags/thehands,4,0,0
+7,thehands,https://mastodon.social/tags/thehands,5,0,0
+7,thehands,https://mastodon.social/tags/thehands,6,0,0
+8,tbt,https://mastodon.social/tags/tbt,0,28,32
+8,tbt,https://mastodon.social/tags/tbt,1,1,1
+8,tbt,https://mastodon.social/tags/tbt,2,1,1
+8,tbt,https://mastodon.social/tags/tbt,3,0,0
+8,tbt,https://mastodon.social/tags/tbt,4,1,1
+8,tbt,https://mastodon.social/tags/tbt,5,0,0
+8,tbt,https://mastodon.social/tags/tbt,6,3,3
+9,Felon,https://mastodon.social/tags/Felon,0,26,36
+9,Felon,https://mastodon.social/tags/Felon,1,0,0
+9,Felon,https://mastodon.social/tags/Felon,2,0,0
+9,Felon,https://mastodon.social/tags/Felon,3,0,0
+9,Felon,https://mastodon.social/tags/Felon,4,0,0
+9,Felon,https://mastodon.social/tags/Felon,5,0,0
+9,Felon,https://mastodon.social/tags/Felon,6,0,0
+10,trump,https://mastodon.social/tags/trump,0,486,764
+10,trump,https://mastodon.social/tags/trump,1,158,325
+10,trump,https://mastodon.social/tags/trump,2,138,371
+10,trump,https://mastodon.social/tags/trump,3,96,161
+10,trump,https://mastodon.social/tags/trump,4,111,171
+10,trump,https://mastodon.social/tags/trump,5,91,160
+10,trump,https://mastodon.social/tags/trump,6,121,216
+11,dwd3,https://mastodon.social/tags/dwd3,0,52,58
+11,dwd3,https://mastodon.social/tags/dwd3,1,0,0
+11,dwd3,https://mastodon.social/tags/dwd3,2,0,0
+11,dwd3,https://mastodon.social/tags/dwd3,3,31,79
+11,dwd3,https://mastodon.social/tags/dwd3,4,7,19
+11,dwd3,https://mastodon.social/tags/dwd3,5,4,5
+11,dwd3,https://mastodon.social/tags/dwd3,6,42,61
+12,GPN22,https://mastodon.social/tags/GPN22,0,326,594
+12,GPN22,https://mastodon.social/tags/GPN22,1,118,172
+12,GPN22,https://mastodon.social/tags/GPN22,2,76,123
+12,GPN22,https://mastodon.social/tags/GPN22,3,57,97
+12,GPN22,https://mastodon.social/tags/GPN22,4,35,45
+12,GPN22,https://mastodon.social/tags/GPN22,5,17,23
+12,GPN22,https://mastodon.social/tags/GPN22,6,12,12
+13,verdict,https://mastodon.social/tags/verdict,0,39,63
+13,verdict,https://mastodon.social/tags/verdict,1,3,7
+13,verdict,https://mastodon.social/tags/verdict,2,2,2
+13,verdict,https://mastodon.social/tags/verdict,3,0,0
+13,verdict,https://mastodon.social/tags/verdict,4,1,1
+13,verdict,https://mastodon.social/tags/verdict,5,1,1
+13,verdict,https://mastodon.social/tags/verdict,6,0,0
+14,waffle860,https://mastodon.social/tags/waffle860,0,19,19
+14,waffle860,https://mastodon.social/tags/waffle860,1,0,0
+14,waffle860,https://mastodon.social/tags/waffle860,2,0,0
+14,waffle860,https://mastodon.social/tags/waffle860,3,0,0
+14,waffle860,https://mastodon.social/tags/waffle860,4,0,0
+14,waffle860,https://mastodon.social/tags/waffle860,5,0,0
+14,waffle860,https://mastodon.social/tags/waffle860,6,0,0
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,0,96,107
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,1,11,11
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,2,1,1
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,3,0,0
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,4,1,1
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,5,0,0
+15,今月描いた絵を晒そう,https://mastodon.social/tags/%E4%BB%8A%E6%9C%88%E6%8F%8F%E3%81%84%E3%81%9F%E7%B5%B5%E3%82%92%E6%99%92%E3%81%9D%E3%81%86,6,0,0
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,0,154,293
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,1,42,130
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,2,31,210
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,3,7,12
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,4,4,7
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,5,5,5
+16,TrumpTrial,https://mastodon.social/tags/trumptrial,6,7,12
+17,europol,https://mastodon.social/tags/europol,0,18,23
+17,europol,https://mastodon.social/tags/europol,1,1,1
+17,europol,https://mastodon.social/tags/europol,2,3,3
+17,europol,https://mastodon.social/tags/europol,3,0,0
+17,europol,https://mastodon.social/tags/europol,4,0,0
+17,europol,https://mastodon.social/tags/europol,5,3,3
+17,europol,https://mastodon.social/tags/europol,6,1,1
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,0,23,46
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,1,2,2
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,2,0,0
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,3,0,0
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,4,0,0
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,5,0,0
+18,trumpverdict,https://mastodon.social/tags/trumpverdict,6,0,0
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,0,20,21
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,1,1,1
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,2,0,0
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,3,0,0
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,4,0,0
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,5,0,0
+19,TheUmbrellaAcademy,https://mastodon.social/tags/theumbrellaacademy,6,0,0
